@@ -7,10 +7,15 @@ Removing the 461 9th grade Thomas High School student reading and math scores do
 &emsp; The 9th grade students at Thomas High School had the following results before they were removed:
       
 &emsp; 9th Grade Average Math Score = 83.6
+
 &emsp; 9th Grade Average Reading Score = 83.7
-&emsp; 9th Grade % Passing Math = 
-&emsp; 9th Grade % Passing Reading = 
-&emsp; 9th Grade % Passing Overall = 
+
+&emsp; 9th Grade % Passing Math = 90.7%
+
+&emsp; 9th Grade % Passing Reading = 94.1%
+
+&emsp; 9th Grade % Passing Overall = 85.2%
+
 
 These results are inline with Thomas High School's overall performance and therefore will not shift the data by removing them.  
 

@@ -19,9 +19,8 @@ Removing the 461 9th grade Thomas High School student reading and math scores do
 
 These results are inline with Thomas High School's overall performance and therefore will not shift the data by removing them.  
 
-* How is the district summary affected?
 
-&emsp; The district summary is not significantly impacted by removing the 9th grade Thomas High School reading and math scores.  The needle moves only 0.1% or less for passing percentages and the averages move the same.
+* The district summary is not significantly impacted by removing the 9th grade Thomas High School reading and math scores.  The needle moves only 0.1% or less for passing percentages and the averages move the same.
 
 *Distric Summary Before*
      

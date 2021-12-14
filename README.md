@@ -34,30 +34,25 @@ These results are inline with Thomas High School's overall performance and there
   <img src = https://github.com/lauras521/School_District_Analysis/blob/56535541c9acb4e9795a73cca0f8a11f32cc5dd3/Resources/District_Summary_After.PNG>
 </p>
 
-* How is the school summary affected?
-&emsp; The school summary is not significantly impacted by removing the 9th grade Thomas High School reading and math scores.  The needle moves only 0.1% or less for passing percentages and the averages move the same.
+* The school summary is not significantly impacted by removing the 9th grade Thomas High School reading and math scores.  
 
     *School Summary Before*
 
 <p >
-  <img src = .PNG>
+  <img src = https://github.com/lauras521/School_District_Analysis/blob/a9d57d42f11bcaf1111a40f05bcf96f1fa950432/Resources/Top_5_schools_before_removal.PNG>
 </p>
 
    *School Summary After*
 
 <p >
-  <img src = .PNG>
+  <img src = https://github.com/lauras521/School_District_Analysis/blob/a9d57d42f11bcaf1111a40f05bcf96f1fa950432/Resources/Top_5_schools_after_removal.PNG>
 </p>
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-Thomas High School still ranks 2nd in Overall % Passing after removing the 9th grade math and reading scores from the analysis.  
+  * Thomas High School still ranks 2nd in Overall % Passing after removing the 9th grade math and reading scores from the analysis.  
 
-* How does replacing the ninth-grade scores affect the following
-       * Math and reading scores by grade
-       
-See the images below that show average scores by school by grade before and after the change.
-
-You can see Thomas's overall Average Math and Reading Scores before removal were xx for math and yy for reading based on the school_distric_summary_df.  Since the average of the scores that were removed is very close to averages of the school with the 10th, 11th, and 12th graders added in, the data does not change significantly. 
+* How does replacing the ninth-grade scores affect math and reading scores by grade
+   * See the images below that show average scores by school by grade before and after the change.  You can see Thomas's overall Average Math and Reading Scores before removal were 83.4 for math and 83.85 for reading based on the school_distric_summary_df.  Since the average of the scores that were removed are very close to averages of the school with the 10th, 11th, and 12th graders added in, the data does not change significantly.  After removal the average math score for 10th-12th graders is 83.35 for math and 83.9 for reading.
 
 Average Math Score with 9th Grade THS Scores       |  Average Math Score without 9th Grade THS Scores
 :--------------------------------------------------:|:----------------------------------------------------------:
@@ -68,12 +63,14 @@ Average Reading Score with 9th Grade THS Scores       |  Average Reading Score w
 ![](https://github.com/lauras521/School_District_Analysis/blob/33d993acd1455cb1c280b22d5a7733d6bcc9711a/Resources/average_reading_score_by_school_by_grade_before_removal.PNG)  |  ![](https://github.com/lauras521/School_District_Analysis/blob/664a88742b574b8471ae6a4ff1ddd6c680480711/Resources/average_reading_score_by_school_by_grade_after_removal.PNG)
 
       
-&emsp; * Scores by school spending
+* How does replacing the ninth-grade scores affect scores by school spending
+   * See the images below that show scores by school spending are not signficantly impacted by removing Thomas High School 9th grade scores for reasons mentioned above. 
       
-&emsp; * Scores by school size
+* How does replacing the ninth-grade scores affect scores by school size
+   * See the images below that show scores by school are not signficantly impacted by removing Thomas High School 9th grade score for reasons mentioned above. 
       
-&emsp; * Scores by school type
-
+* How does replacing the ninth-grade scores affect scores by school type
+   * See the images below that show scores by school type are not signficantly impacted by removing Thomas High School 9th grade scores for reasons mentioned above. 
 
 
 ## Summary
